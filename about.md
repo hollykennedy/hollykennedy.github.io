@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Holly Kennedy - Home"
+title: "About"
 permalink: /about/
 ---
 
