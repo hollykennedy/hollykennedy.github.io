@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "CTF Writeup: Trace Labs Search Party February 2023"
-date: 2023-04-21 12:40:00 -0600
+author: Holly Kennedy
+date: 2023-04-21
 categories: ctf
 ---
 
