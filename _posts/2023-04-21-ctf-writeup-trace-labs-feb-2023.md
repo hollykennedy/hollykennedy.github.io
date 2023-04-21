@@ -4,7 +4,7 @@ title: "CTF Writeup: Trace Labs Search Party February 2023"
 author: Holly Kennedy
 date: 2023-04-21
 categories: ctf
-tags: ctf
+tags: CTF
 ---
 
 *Note: The subjects investigated in this event are real people, so there will be no screenshots and this writeup will be more about the principles than the details.*
